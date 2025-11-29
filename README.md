@@ -10,6 +10,26 @@ It includes:
 
 ---
 
+## Try MyDistro ISO
+
+You can boot the ISO directly in QEMU or VirtualBox to try MyDistro without building it yourself.
+
+### QEMU
+```bash
+qemu-system-x86_64 -cdrom iso/MyDistro.iso -m 512M
+```
+
+### VirtualBox / VMware
+Create a new virtual machine.
+
+Set the type to Linux and version to Other Linux (64-bit).
+
+Attach iso/MyDistro.iso as the CD/DVD drive.
+
+Boot the VM.
+
+Note: This ISO contains a minimal Linux system with BusyBox and a custom ASCII welcome screen. Job control and utilities are limited.
+
 ## Features
 
 - Bootable in QEMU or VirtualBox
