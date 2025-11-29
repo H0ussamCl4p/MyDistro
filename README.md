@@ -29,6 +29,9 @@ It includes:
 
 You can boot the ISO directly in QEMU or VirtualBox to try MyDistro without building it yourself.
 
+**Download the ISO directly:**  
+[MyDistro.iso](https://github.com/YourUsername/MyDistro/releases/latest/download/MyDistro.iso)
+
 ### QEMU
 ```bash
 qemu-system-x86_64 -cdrom iso/MyDistro.iso -m 512M
