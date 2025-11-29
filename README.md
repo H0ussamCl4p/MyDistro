@@ -32,6 +32,10 @@ You can boot the ISO directly in QEMU or VirtualBox to try MyDistro without buil
 **Download the ISO directly:**  
 [MyDistro.iso](https://github.com/H0ussamCl4p/MyDistro/blob/main/iso/MyDistro.iso)
 
+```bash
+wget https://github.com/H0ussamCl4p/MyDistro/raw/main/iso/MyDistro.iso -O MyDistro.iso
+```
+
 ### QEMU
 ```bash
 qemu-system-x86_64 -cdrom iso/MyDistro.iso -m 512M
