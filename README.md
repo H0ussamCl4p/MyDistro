@@ -30,7 +30,7 @@ It includes:
 You can boot the ISO directly in QEMU or VirtualBox to try MyDistro without building it yourself.
 
 **Download the ISO directly:**  
-[MyDistro.iso](https://github.com/YourUsername/MyDistro/releases/latest/download/MyDistro.iso)
+[MyDistro.iso](https://github.com/H0ussamCl4p/MyDistro/blob/main/iso/MyDistro.iso)
 
 ### QEMU
 ```bash
