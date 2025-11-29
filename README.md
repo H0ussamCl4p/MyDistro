@@ -1,6 +1,21 @@
-# MyDistro
+<div align="center">
 
-**MyDistro** is a minimal Linux distribution created as a learning project by Choubik Houssam.  
+  <img src="https://img.shields.io/badge/MyDistro-2EA44F?style=for-the-badge&labelColor=2EA44F" width="300" alt="MyDistro">
+
+  <br>
+  <br>
+
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Choubik%20Houssam-363636?style=flat-square" alt="Made with love by Choubik Houssam">
+
+  <br>
+  <br>
+
+  <p>
+    MyDistro is a minimal Linux distribution created as a learning project.
+  </p>
+
+</div>
+
 It includes:
 
 - Linux kernel
